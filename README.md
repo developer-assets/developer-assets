@@ -22,5 +22,5 @@
 
 ### 🌐 Reach me on: [LinkedIn](https://www.linkedin.com/in/patrick-obama-69877b283/), [Twitter](https://twitter.com/cybicl), [Discord](https://discord.gg/8TNPnNPX)
 
-![developer-assets's Stats](https://github-readme-stats.vercel.app/api?username=developer-assets&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![developer-assets's Stats](https://github-readme-stats.vercel.app/api?username=developer-assets&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
 ![developer-assets's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-assets&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
