@@ -1,4 +1,4 @@
-<h2 style="text-align: center; color: green;" >Welcome to my GitHub profile ...</h2>
+<h2 style="text-align: center; color: green;" >Patrick Obama GitHub profile ...</h2>
 
 ### ✔️ I'm currently learning
 - React.js (front-end website development)
