@@ -11,7 +11,7 @@
 
 ### 💡 Goals for 2024:
 - Improving my coding skills 
-- Become skilled in  React.js, Lavarel, RESTfull APIs
+- Become skilled in  React.js, Lavarel, RESTfull APIs, better FrontEnd UIs
 
 ### ⚡ I have skills in:
 - C++
