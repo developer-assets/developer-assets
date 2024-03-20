@@ -4,6 +4,7 @@
 - React.js (front-end website development framework)
 - Lavarel (back-end website development framework)
 - Dart (mobile, web and iOS app development with flutter framework)
+- Tailwind CSS
 
 ### 🔭 I’m currently working on:
 - [Cybicl](https://cybicl.ch)
