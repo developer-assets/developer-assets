@@ -21,6 +21,7 @@
 - JavaScript
 - PHP
 - MySQL
+- GIT & GitHub
 
 ### 🌐 Reach me on: [LinkedIn](https://www.linkedin.com/in/patrick-obama-69877b283/), [Twitter](https://twitter.com/cybicl), [Discord](https://discord.gg/8TNPnNPX)
 
