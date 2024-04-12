@@ -5,7 +5,7 @@
 - Dart (mobile, web and iOS app development with flutter framework)
 
 ### 🔭 I’m currently working on:
-- [Cybicl](https://cybicl.ch)
+- 
 
 ### 💡 Goals for 2024:
 - Improving my coding skills 
