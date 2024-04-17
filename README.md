@@ -44,6 +44,12 @@ Additionally, I'm deeply passionate about open source. As an active enthusiast a
 <br>
 <br>
 
+<h2></h2>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</div>
+
 ### 🌐 Reach me on: [Website](https://patrick-portfolio-d16l.onrender.com/), [LinkedIn](https://www.linkedin.com/in/patrick-obama-8269152bb/), [Twitter](https://twitter.com/cybicl), [Email](mailto:999patrickobama@gmail.com), [Telegram](https://t.me/you_cant_park_there)
 
 <br>
