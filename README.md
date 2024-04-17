@@ -41,19 +41,15 @@ Additionally, I'm deeply passionate about open source. As an active enthusiast a
   <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/python-img.png" alt="Python" width="70" height="70">
 </kbd>
 
-
-
-![HTML5](https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/html.png)
-- Python
-- HTML5
-- CSS
-- Tailwind CSS
-- JavaScript
-- PHP
-- MySQL
-- GIT & GitHub
+<br>
+<br>
 
 ### 🌐 Reach me on: [Website](https://patrick-portfolio-d16l.onrender.com/), [LinkedIn](https://www.linkedin.com/in/patrick-obama-8269152bb/), [Twitter](https://twitter.com/cybicl), [Email](mailto:999patrickobama@gmail.com), [Telegram](https://t.me/you_cant_park_there)
 
+<br>
+<br>
+
+<div align="center">
+
 ![developer-assets's Stats](https://github-readme-stats.vercel.app/api?username=developer-assets&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
-![developer-assets's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-assets&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+</div>
