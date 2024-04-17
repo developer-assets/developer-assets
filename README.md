@@ -1,18 +1,36 @@
-<h2 style="text-align: center; color: green;" >Patrick Obama GitHub profile ...</h2>
+<h2>Patrick Obama GitHub profile ...</h2>
 
-### ✔️ I'm currently learning:
-- React.js (front-end website development framework)
-- Dart (mobile, web and iOS app development with flutter framework)
+I'm a dedicated self-taught frontend developer and freelance software engineer based in Kenya. My enthusiasm for software development is fueled by the excitement of bringing ideas to life through elegant interfaces. I prioritize user experience, architectural integrity, and code quality in all my projects.
 
-### 🔭 I’m currently working on:
-- 
+Additionally, I'm deeply passionate about open source. As an active enthusiast and maintainer, I've gained invaluable knowledge and experience from the collaborative nature of the open-source community. I'm continually inspired by the culture of sharing and learning that thrives within it.
 
-### 💡 Goals for 2024:
-- Improving my coding skills 
-- Become skilled in  React.js, RESTfull APIs, better FrontEnd UIs
+
 
 ### ⚡ I have skills in:
-- C++
+
+<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
+  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/html-img.png" alt="HTML5" width="70" height="70">
+</kbd>
+
+<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
+  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/css-img.png" alt="CSS" width="70" height="70">
+</kbd>
+
+<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
+  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/javascript-img.png" alt="JavaScript" width="70" height="70">
+</kbd>
+
+<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
+  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/react-img.png" alt="React" width="70" height="70">
+</kbd>
+
+<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
+  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/tailwind.png" alt="Tailwind CSS" width="50" height="50">
+</kbd>
+
+
+
+![HTML5](https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/html.png)
 - Python
 - HTML5
 - CSS
