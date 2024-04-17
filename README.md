@@ -4,9 +4,10 @@ I'm a dedicated self-taught frontend developer and freelance software engineer b
 
 Additionally, I'm deeply passionate about open source. As an active enthusiast and maintainer, I've gained invaluable knowledge and experience from the collaborative nature of the open-source community. I'm continually inspired by the culture of sharing and learning that thrives within it.
 
+<br>
+<br>
 
-
-### ⚡ I have skills in:
+<h2>⚡ I have skills in:</h2>
 
 <kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
   <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/html-img.png" alt="HTML5" width="70" height="70">
@@ -25,7 +26,19 @@ Additionally, I'm deeply passionate about open source. As an active enthusiast a
 </kbd>
 
 <kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
-  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/tailwind.png" alt="Tailwind CSS" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/tailwind-img.png" alt="Tailwind CSS" width="70" height="70">
+</kbd>
+
+<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
+  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/php-img.png" alt="PHP" width="70" height="70">
+</kbd>
+
+<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
+  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/sql-img.png" alt="SQL" width="70" height="70">
+</kbd>
+
+<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
+  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/python-img.png" alt="Python" width="70" height="70">
 </kbd>
 
 
