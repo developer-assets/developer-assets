@@ -9,44 +9,11 @@ Additionally, I'm deeply passionate about open source. As an active enthusiast a
 
 <h2>⚡ I have skills in:</h2>
 
-<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
-  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/html-img.png" alt="HTML5" width="70" height="70">
-</kbd>
+React, Next.js, Nest.js, JavaScript(ES6+), TypeScript, HTML5, CSS, Tailwind CSS, Express, PHP, C++, SQL, MongoDB, Python, Firebase, Node.js, MySQL, Git, GitHub, VS Code
 
-<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
-  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/css-img.png" alt="CSS" width="70" height="70">
-</kbd>
+<br><br>
 
-<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
-  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/javascript-img.png" alt="JavaScript" width="70" height="70">
-</kbd>
-
-<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
-  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/react-img.png" alt="React" width="70" height="70">
-</kbd>
-
-<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
-  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/tailwind-img.png" alt="Tailwind CSS" width="70" height="70">
-</kbd>
-
-<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
-  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/php-img.png" alt="PHP" width="70" height="70">
-</kbd>
-
-<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
-  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/sql-img.png" alt="SQL" width="70" height="70">
-</kbd>
-
-<kbd style="background-color: #f6f8fa; color: white; border-radius: 6px; padding: 4px 8px;">
-  <img src="https://raw.githubusercontent.com/developer-assets/public-hosting/main/readme/python-img.png" alt="Python" width="70" height="70">
-</kbd>
-
-<br>
-<br>
-
-<h2></h2>
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </div>
 
