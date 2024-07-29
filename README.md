@@ -1,6 +1,6 @@
 <h2>Patrick Obama GitHub profile ...</h2>
 
-I'm a dedicated self-taught frontend developer and freelance software engineer based in Kenya. My enthusiasm for software development is fueled by the excitement of bringing ideas to life through elegant interfaces. I prioritize user experience, architectural integrity, and code quality in all my projects.
+I'm a dedicated self-taught fullstack developer and freelance software engineer based in Kenya. My enthusiasm for software development is fueled by the excitement of bringing ideas to life through elegant interfaces. I prioritize user experience, architectural integrity, and code quality in all my projects.
 
 Additionally, I'm deeply passionate about open source. As an active enthusiast and maintainer, I've gained invaluable knowledge and experience from the collaborative nature of the open-source community. I'm continually inspired by the culture of sharing and learning that thrives within it.
 
@@ -9,7 +9,7 @@ Additionally, I'm deeply passionate about open source. As an active enthusiast a
 
 <h2>⚡ I have skills in:</h2>
 
-React, Next.js, Nest.js, JavaScript(ES6+), TypeScript, HTML5, CSS, Tailwind CSS, Express, PHP, C++, SQL, MongoDB, Python, Firebase, Node.js, MySQL, Git, GitHub, VS Code
+React, Next.js, Nest.js, JavaScript(ES6+), TypeScript, Rust, React Native, Dart & Flutter, HTML5, CSS, Tailwind CSS, Express, PHP, C++, SQL, MongoDB, Python, Firebase, Superbase, Node.js, MySQL, Git, GitHub
 
 <br><br>
 
